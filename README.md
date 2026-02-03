@@ -1,6 +1,5 @@
 readme
-jnjn
+fuzzy 
 
 
-add your name or whatever 
-Angela
+pilgrimage together 
