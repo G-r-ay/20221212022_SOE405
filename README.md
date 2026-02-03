@@ -4,3 +4,5 @@ jnjn
 
 Chibuike 
 kosi
+
+update to readme
