@@ -1,1 +1,2 @@
 firstfile
+This file is a group project intended to help us understand the principle of collaboration and project management in software engineering.
