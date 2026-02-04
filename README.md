@@ -1,4 +1,4 @@
 readme
 
-COLLINS CHINEMEREM JOY 
-Reg No 20221356782 
+Uzoma Promise Chigozirim
+Reg No 20221330322 
